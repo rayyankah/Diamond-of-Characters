@@ -1,1 +1,0 @@
-"# Diamond-of-Characters" 
